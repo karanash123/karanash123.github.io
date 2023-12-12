@@ -1,5 +1,5 @@
 ---
-title: "YOUR NAME"
+title: "Kara Nash"
 about:
   template: trestles  # jolla  trestles  solana  marquee  broadside
   image: img/profile.png
@@ -21,7 +21,7 @@ about:
       href: https://GITHUB_USERNAME.github.io/resume-example.pdf
     - icon: mailbox
       text: Email
-      href: mailto:YOUR_EMAIL@geneseo.edu
+      href: mailto:kjn1@geneseo.edu
 
 ---
 
@@ -31,8 +31,8 @@ Finley Malloc majors in Data Analytics at SUNY Geneseo. When not working on data
 ## Education
 
 State University of New York at Geneseo | Geneseo, NY <br>
-B.S. in Data Analytics | Aug 2022 - May 2026 <br>
-Minor in Business Administration 
+B.S. in Business Administration | Aug 2023 - May 2027 <br>
+Minor in Accounting
 
 ## Experience
 
